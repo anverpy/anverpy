@@ -1,4 +1,5 @@
-<div align="center"> <img src="https://via.placeholder.com/1600x900" alt="Banner" width="100%"> </div> <img src="ruta/a/tu/foto.jpg" alt="Andrés Vergara" width="150" height="150" style="border-radius: 50%; float: left; margin-right: 20px;">
+# EN OBRAS ⛏
+<div align="center"> <img src="https://via.placeholder.com/1600x900" alt="Banner" width="100%">
 <br>
 <br>
 Técnico superior en sistemas de telecomunicaciones e informáticos (FP)
