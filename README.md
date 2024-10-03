@@ -4,7 +4,7 @@
 Andrés Vergara
 Técnico superior en sistemas de telecomunicaciones e informáticos (FP)
 Soy un apasionado por la informática y me encantaría trabajar en el sector TI. Actualmente me encuentro aprendiendo Python e inteligencia artificial. Aspiro con el tiempo a poder desarrollar un rol de científico de datos u operaciones de machine learning.
-
+<br>
 <div style="clear: both;"></div>
 🚀 Habilidades
 Python
@@ -15,6 +15,7 @@ Informática
 Python avanzado
 Machine Learning
 Ciencia de datos
+<br>
 💼 Proyectos
 Aquí encontrarás los proyectos en los que estoy trabajando:
 
