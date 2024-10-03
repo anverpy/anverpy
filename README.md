@@ -179,7 +179,6 @@ export default function PortfolioResponsive() {
                 </CardContent>
               </Card>
             </div>
-
           </section>
         )}
       </div>
