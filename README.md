@@ -6,21 +6,34 @@ Técnico superior en sistemas de telecomunicaciones e informáticos (FP)
 <br>
 Soy un apasionado por la informática y me encantaría trabajar en el sector TI. 
 <br>
-Actualmente me encuentro aprendiendo Python e inteligencia artificial. Aspiro con el tiempo a poder desarrollar un rol de científico de datos u operaciones de machine learning.
+<br>
+Actualmente me encuentro aprendiendo Python e inteligencia artificial. Aspiro con el tiempo a poder desarrollar un rol de científico de datos
+<br>
+u operaciones de machine learning.
 <br>
 <div style="clear: both;"></div>
 <br>
-🚀 Habilidades
+🚀 Habilidades 
+<br>
+<br>
 Telecomunicaciones
+<br>
 Informática
-Python ⏳
-Inteligencia Artificial ⏳
+<br>
+Python 
+<br>
+Inteligencia Artificial 
 <br>
 <br>
-🌱 Actualmente aprendiendo
+<br>
+🌱 Actualmente aprendiendo 
+<br>
+<br>
 Python avanzado
-Machine Learning
-Ciencia de datos
+<br>
+Machine Learning ⏳
+<br>
+Ciencia de datos ⏳
 <br>
 <br>
 💼 Proyectos
