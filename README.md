@@ -1,17 +1,27 @@
-## Hi there 👋
+# 👨🏻‍💻 Porfolio para programadores y desarrolladores
 
-<!--
-**anverpy/anverpy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+<a href="">
+<img src="./public/porfolio.webp">
+</a>
+<p></p>
+</div>
 
-Here are some ideas to get you started:
-HOLA PRUEBAS
+<div align="center">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Astro Badge](https://img.shields.io/badge/Astro-FF3E00?logo=astro&logoColor=fff&style=flat)
+![Tailwind CSS Badge](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=fff&style=flat)
+![GitHub stars](https://img.shields.io/github/stars/midudev/porfolio.dev)
+![GitHub PRs](https://img.shields.io/github/issues-pr/midudev/porfolio.dev)
+![GitHub forks](https://img.shields.io/github/forks/midudev/porfolio.dev)
+![GitHub issues](https://img.shields.io/github/issues/midudev/porfolio.dev)
+
+</div>
+
+## 🫂 Contribuidores
+
+<a href="https://github.com/midudev/porfolio.dev/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=midudev/porfolio.dev" />
+</a>
+
+<p></p>
