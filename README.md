@@ -1,4 +1,4 @@
-"use client"
+```tsx
 
 import React, { useState } from 'react'
 import Image from 'next/image'
@@ -179,6 +179,7 @@ export default function PortfolioResponsive() {
                 </CardContent>
               </Card>
             </div>
+```
           </section>
         )}
       </div>
