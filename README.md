@@ -1,5 +1,4 @@
 # EN OBRAS ⛏
-# USO Y EXPLICACIÓN DE DOUBLE LINKED LIST CON ANALOGÍA [https://shorturl.at/IcDbX]
 <div align="center"> <img src="https://via.placeholder.com/1600x900" alt="Banner" width="100%">
 <br>
 <br>
@@ -38,11 +37,11 @@ Machine Learning ⏳
 Ciencia de datos ⏳
 <br>
 <br>
-💼 Proyectos
-Aquí encontrarás los proyectos en los que estoy trabajando:
 
-Nombre del Proyecto - Breve descripción del proyecto.
-Otro Proyecto - Breve descripción del proyecto.
+💼 Proyectos (Proximamente...)
+<br>
+<br>
+  # USO Y EXPLICACIÓN DE DOUBLE LINKED LIST CON ANALOGÍA [https://shorturl.at/IcDbX]
 <br>
 <br>
 📫 Contacto
