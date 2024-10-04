@@ -1,5 +1,5 @@
 # EN OBRAS ⛏
-<div align="center"> <img src="https://via.placeholder.com/1600x900" alt="Banner" width="100%">
+
 <br>
 <br>
 Técnico superior en sistemas de telecomunicaciones e informáticos (FP)
