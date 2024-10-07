@@ -1,7 +1,3 @@
-# EN OBRAS ⛏
-
-<br>
-
 ## Mi nombre es Andrés vergara, soy técnico superior en sistemas de telecomunicaciones e informáticos (F.P).
 ### Soy un apasionado por la informática y me encantaría trabajar en el sector TI.
 ### Aspiro con el tiempo a poder desarrollar un rol de científico de datos u operaciones de machine learning.
