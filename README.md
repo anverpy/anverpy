@@ -1,51 +1,44 @@
 # EN OBRAS ⛏
 
 <br>
-<br>
-Técnico superior en sistemas de telecomunicaciones e informáticos (FP)
-<br>
-<br>
-Soy un apasionado por la informática y me encantaría trabajar en el sector TI. 
-<br>
-<br>
-Actualmente me encuentro aprendiendo Python e inteligencia artificial. Aspiro con el tiempo a poder desarrollar un rol de científico de datos
-<br>
-u operaciones de machine learning.
-<br>
-<div style="clear: both;"></div>
-<br>
-🚀 Habilidades 
+
+## Mi nombre es Andrés vergara, soy técnico superior en sistemas de telecomunicaciones e informáticos (F.P).
+### Soy un apasionado por la informática y me encantaría trabajar en el sector TI.
+### Aspiro con el tiempo a poder desarrollar un rol de científico de datos u operaciones de machine learning.
+
 <br>
 <br>
-Telecomunicaciones
-<br>
-Informática
-<br>
-Python 
-<br>
-Inteligencia Artificial 
-<br>
-<br>
-<br>
-🌱 Actualmente aprendiendo 
-<br>
-<br>
-Python avanzado
-<br>
-Machine Learning ⏳
-<br>
-Ciencia de datos ⏳
+ 
+# 🚀 Habilidades 
+## • Telecomunicaciones 📡
+## • Mantenimiento informático de sistemas y pequeñas redes 💻
+## • Lógica de programación 💡 
+## • Inteligencia Artificial 🧠
+
 <br>
 <br>
 
-💼 Proyectos (Proximamente...)
+# 🌱 Actualmente aprendiendo  
+
+## • Python avanzado y librerias
+
+## • Machine Learning 
+
+## • Ciencia de datos 
+
 <br>
 <br>
-  # USO Y EXPLICACIÓN DE DOUBLE LINKED LIST CON ANALOGÍA [https://shorturl.at/IcDbX]
-<br>
-<br>
-📫 Contacto
-LinkedIn: Andrés Vergara
-Email: tu.email@ejemplo.com
-<br>
-<br>
+
+
+# 🎁 Aportaciones 🐙
+
+  # [USO Y EXPLICACIÓN DE DOUBLE LINKED LIST CON ANALOGÍA](https://github.com/anverpy/double-ll-creating-analogy)
+
+  <br>
+
+  # [ALTERNA LA VISUALIZACIÓN DE LA BARRA DE TAREAS USANDO WIN+D](https://github.com/anverpy/mi-dev/tree/master/GitHub/toggle-taskbar)
+
+  
+  <br>
+
+# 💼 Proyectos (Proximamente...)
