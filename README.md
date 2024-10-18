@@ -26,7 +26,7 @@
 <br>
 
 
-# 🎁 Aportaciones/Proyectos 🐙
+# 🎁 Aportaciones/💼Proyectos 🐙
 
   # [APLICACIÓN DE PLANIFICACIÓN Y SIMULACIÓN DE VUELOS](https://github.com/anverpy/mission-planner) 🛫
   <br>
@@ -36,7 +36,3 @@
 
   # [ALTERNA LA VISUALIZACIÓN DE LA BARRA DE TAREAS USANDO WIN+D](https://github.com/anverpy/toggle-taskbar) 👁️‍🗨️
   <br>
-  
- 
-
-# 💼 Proyectos (Proximamente...)
