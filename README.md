@@ -26,15 +26,17 @@
 <br>
 
 
-# 🎁 Aportaciones 🐙
+# 🎁 Aportaciones/Proyectos 🐙
 
-  # [USO Y EXPLICACIÓN DE DOUBLE LINKED LIST CON ANALOGÍA](https://github.com/anverpy/double-ll-creating-analogy)
-
+  # [APLICACIÓN DE PLANIFICACIÓN Y SIMULACION DE VUELOS](https://github.com/anverpy/mission-planner) 🛫
   <br>
-
-  # [ALTERNA LA VISUALIZACIÓN DE LA BARRA DE TAREAS USANDO WIN+D](https://github.com/anverpy/toggle-taskbar)
-
   
+  # [USO Y EXPLICACIÓN DE DOUBLE LINKED LIST CON ANALOGÍA](https://github.com/anverpy/double-ll-creating-analogy) 🤓
   <br>
+
+  # [ALTERNA LA VISUALIZACIÓN DE LA BARRA DE TAREAS USANDO WIN+D](https://github.com/anverpy/toggle-taskbar) 👁️‍🗨️
+  <br>
+  
+ 
 
 # 💼 Proyectos (Proximamente...)
