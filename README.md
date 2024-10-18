@@ -28,7 +28,7 @@
 
 # 🎁 Aportaciones/Proyectos 🐙
 
-  # [APLICACIÓN DE PLANIFICACIÓN Y SIMULACION DE VUELOS](https://github.com/anverpy/mission-planner) 🛫
+  # [APLICACIÓN DE PLANIFICACIÓN Y SIMULACIÓN DE VUELOS](https://github.com/anverpy/mission-planner) 🛫
   <br>
   
   # [USO Y EXPLICACIÓN DE DOUBLE LINKED LIST CON ANALOGÍA](https://github.com/anverpy/double-ll-creating-analogy) 🤓
