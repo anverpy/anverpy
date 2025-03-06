@@ -6,7 +6,6 @@
 <br>
  
 # 🚀 Habilidades 
-## • Telecomunicaciones 📡
 ## • Mantenimiento informático de sistemas y pequeñas redes 💻
 ## • Lógica de programación 💡 
 ## • Inteligencia Artificial 🧠
