@@ -1,37 +1,28 @@
-## Mi nombre es Andrés vergara, soy técnico superior en sistemas de telecomunicaciones e informáticos (F.P).
-### Soy un apasionado por la informática y me encantaría trabajar en el sector TI.
-### Aspiro con el tiempo a poder desarrollar un rol de científico de datos u operaciones de machine learning.
 
-<br>
-<br>
- 
-# 🚀 Habilidades 
-## • Mantenimiento informático de sistemas y pequeñas redes 💻
-## • Lógica de programación 💡 
-## • Inteligencia Artificial 🧠
+# About Me – Andrés Vergara
 
-<br>
-<br>
+My name is Andrés Vergara, I am a Senior Technician in Telecommunications and IT Systems (Vocational Training).  
+I’m passionate about technology and would love to work in the IT sector.  
+Over time, I aspire to develop a role as a Data Scientist or Machine Learning Operator.
 
-# 🌱 Actualmente aprendiendo  
+---
 
-## • Python avanzado y librerias
+## 🚀 Skills  
+- IT maintenance for systems and small networks 💻  
+- Programming logic 💡  
+- Artificial Intelligence 🧠  
 
-## • Machine Learning 
+---
 
-## • Ciencia de datos 
+## 🌱 Currently Learning  
+- Advanced Python and libraries  
+- Machine Learning  
+- Data Science  
 
-<br>
-<br>
+---
 
+## 🎁 Contributions/💼Projects 🐙  
 
-# 🎁 Aportaciones/💼Proyectos 🐙
-
-  # [APLICACIÓN DE PLANIFICACIÓN Y SIMULACIÓN DE VUELOS](https://github.com/anverpy/mission-planner) 🛫
-  <br>
-  
-  # [USO Y EXPLICACIÓN DE DOUBLE LINKED LIST CON ANALOGÍA](https://github.com/anverpy/double-ll-creating-analogy) 🤓
-  <br>
-
-  # [ALTERNA LA VISUALIZACIÓN DE LA BARRA DE TAREAS USANDO WIN+D](https://github.com/anverpy/toggle-taskbar) 👁️‍🗨️
-  <br>
+- **[FLIGHT PLANNING AND SIMULATION APPLICATION 🛫](https://github.com/anverpy/mission-planner)**  
+- **[EXPLANATION AND USAGE OF DOUBLE LINKED LIST WITH ANALOGY 🤓](https://github.com/anverpy/double-ll-creating-analogy)**  
+- **[TOGGLE TASKBAR VISIBILITY USING WIN+D 👁️‍🗨️](https://github.com/anverpy/toggle-taskbar)**  
