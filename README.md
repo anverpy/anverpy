@@ -1,9 +1,11 @@
 
-# About Me – Andrés Vergara
+<img src="https://i.imgur.com/o5jNcoY.jpeg" height=220>
 
-### My name is Andrés Vergara, I am a Graduated Technician in Telecommunications and IT Systems (SPAIN F.P).  
-### I’m passionate about technology and would love to work in the IT sector.  
-### Over time, I aspire to develop a role as a Data Scientist or Machine Learning Operator.
+# About Me
+
+### My name is Andres Vergara, </br> i am a Graduated Technician in Telecommunications and IT Systems (SPAIN PUBLIC F.P).  
+### I’m passionate about technology and IT work.  
+### Over time, I aspire to develop a role as a Data Scientist or Machine Learning Engineering.
 
 ---
 
@@ -15,14 +17,21 @@
 ---
 
 # 🌱 Currently Learning  
-### - Advanced Python and libraries  
+### - Python for Data Science  
 ### - Machine Learning  
-### - Data Science  
+### - [MCP](https://github.com/cyanheads/git-mcp-server)
+
 
 ---
 
-# 🎁 Contributions/💼Projects 🐙  
+# 💼 Contributions/Projects 🐙  
 
-- **[FLIGHT PLANNING AND SIMULATION APPLICATION 🛫](https://github.com/anverpy/mission-planner)**  
-- **[EXPLANATION AND USAGE OF DOUBLE LINKED LIST WITH ANALOGY 🤓](https://github.com/anverpy/double-ll-creating-analogy)**  
-- **[TOGGLE TASKBAR VISIBILITY USING WIN+D 👁️‍🗨️](https://github.com/anverpy/toggle-taskbar)**  
+### - **[WEB SCRAPPING AND DATA ANALYSIS 📊](https://github.com/anverpy/scraping-and-data-analysis)**  
+### - **[FLIGHT PLANNING AND SIMULATION APPLICATION ON TERMINAL 🛫](https://github.com/anverpy/mission-planner)**  
+### - **[DOUBLE LINKED LIST'S EXCERCISE WITH ANALOGY 🤓](https://github.com/anverpy/double-ll-creating-analogy)**  
+###  - **[TOGGLE TASKBAR VISIBILITY USING WIN+D 👁️‍🗨️](https://github.com/anverpy/toggle-taskbar)**  
+
+---
+---
+
+
