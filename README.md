@@ -9,8 +9,7 @@
 
 ---
 
-# 🚀 Skills  
-### - IT maintenance for systems and small networks 💻  
+# 🚀 Skills   
 ### - Programming logic 💡 
 ### - Python 🐍 
 ### - Artificial Intelligence 🧠  
