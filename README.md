@@ -1,5 +1,5 @@
 
-//<img src="https://i.imgur.com/o5jNcoY.jpeg" height=220>
+<!-- <img src="https://i.imgur.com/o5jNcoY.jpeg" height=220> -->
 
 # About Me
 
