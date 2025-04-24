@@ -10,8 +10,9 @@
 ---
 
 # 🚀 Skills   
-### - Programming logic 💡 
+### - Programming Logic 💡 
 ### - Python 🐍 
+### - Data Cleaning and Analysis 📈
 ### - Artificial Intelligence 🧠  
 
 ---
