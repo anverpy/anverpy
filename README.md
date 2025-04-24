@@ -11,7 +11,8 @@
 
 # 🚀 Skills  
 ### - IT maintenance for systems and small networks 💻  
-### - Programming logic 💡  
+### - Programming logic 💡 
+### - Python 🐍 
 ### - Artificial Intelligence 🧠  
 
 ---
@@ -29,7 +30,7 @@
 ### - **[WEB SCRAPPING AND DATA ANALYSIS 📊](https://github.com/anverpy/scraping-and-data-analysis)**  
 ### - **[FLIGHT PLANNING AND SIMULATION APPLICATION ON TERMINAL 🛫](https://github.com/anverpy/mission-planner)**  
 ### - **[DOUBLE LINKED LIST'S EXCERCISE WITH ANALOGY 🤓](https://github.com/anverpy/double-ll-creating-analogy)**  
-###  - **[TOGGLE TASKBAR VISIBILITY USING WIN+D 👁️‍🗨️](https://github.com/anverpy/toggle-taskbar)**  
+### - **[TOGGLE TASKBAR VISIBILITY USING WIN+D 👁️‍🗨️](https://github.com/anverpy/toggle-taskbar)**  
 
 ---
 ---
