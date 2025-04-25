@@ -14,10 +14,11 @@
 
 - ##  Artificial Intelligence 🧠</br>![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white) ![GitHub Copilot](https://img.shields.io/badge/github_copilot-8957E5?style=for-the-badge&logo=github-copilot&logoColor=white) ![Google Gemini](https://img.shields.io/badge/google%20gemini-8E75B2?style=for-the-badge&logo=google%20gemini&logoColor=white)
 
-# 🌱 Currently Learning  
+# 🌱 Currently Learning
+- ## [MCP 🌐](https://github.com/cyanheads/git-mcp-server)
 - ## Python for Data Science 🧪
 - ## Machine Learning 🤖
-- ## [MCP 🌐](https://github.com/cyanheads/git-mcp-server)
+
 
 ---
 
