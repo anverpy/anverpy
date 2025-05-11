@@ -22,12 +22,22 @@
 
 ---
 
-# 💼 Contributions/Projects 🐙  
+# 💼 Projects and Contributions 🐙  
 
-### - **[WEB SCRAPPING AND DATA ANALYSIS 📊](https://github.com/anverpy/scraping-and-data-analysis)**  
-### - **[FLIGHT PLANNING AND SIMULATION APPLICATION ON TERMINAL 🛫](https://github.com/anverpy/mission-planner)**  
+
+**Earthquake Data Analysis** <br>
+<a href="https://github.com/anverpy/scraping-and-data-analysis"><img src="https://github.com/anverpy/earthquakes/blob/main/Graphics/earthquake_heatmap.png?raw=true" width="350"/></a>
+
+**Flight Planning & Simulation** <br>
+<a href="https://github.com/anverpy/mission-planner"><img src="https://github.com/anverpy/anverpy/blob/main/sky.gif?raw=true" width="350"/></a>
+
+**Web Scraping & Data Analysis** <br>
+<a href="https://github.com/anverpy/earthquakes"><img src="https://github.com/anverpy/scraping-and-data-analysis/blob/main/machine-learning/visualizations/ML_price_by_level.png?raw=true" width="350"/></a>
+
+
+
+### - **[TOGGLE TASKBAR VISIBILITY USING WIN+D 👁️‍🗨️](https://github.com/anverpy/toggle-taskbar)** 
 ### - **[DOUBLE LINKED LIST'S EXCERCISE WITH ANALOGY 🤓](https://github.com/anverpy/double-ll-creating-analogy)**  
-### - **[TOGGLE TASKBAR VISIBILITY USING WIN+D 👁️‍🗨️](https://github.com/anverpy/toggle-taskbar)**  
 ### - **[ARTICLES PAGE ✍🏽](https://github.com/anverpy/articles)**
 
 
