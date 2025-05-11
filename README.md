@@ -24,17 +24,28 @@
 
 # 💼 Projects and Contributions 🐙  
 
-
-**Earthquake Data Analysis** <br>
-<a href="https://github.com/anverpy/earthquakes"><img src="https://github.com/anverpy/earthquakes/blob/main/Graphics/earthquake_heatmap.png?raw=true" width="350"/></a>
-
-**Flight Planning & Simulation** <br>
-<a href="https://github.com/anverpy/mission-planner"><img src="https://github.com/anverpy/anverpy/blob/main/sky.gif?raw=true" width="350"/></a>
-
-**Web Scraping & Data Analysis** <br>
-<a href="https://github.com/anverpy/scraping-and-data-analysis"><img src="https://github.com/anverpy/scraping-and-data-analysis/blob/main/machine-learning/visualizations/ML_price_by_level.png?raw=true" width="350"/></a>
-
-
+<table>
+  <tr>
+    <td align="center">
+      <b>Earthquake Data Analysis</b><br>
+      <a href="https://github.com/anverpy/scraping-and-data-analysis">
+        <img src="https://github.com/anverpy/earthquakes/blob/main/Graphics/earthquake_heatmap.png?raw=true" width="500"/>
+      </a>
+    </td>
+    <td align="center">
+      <b>Flight Planning & Simulation</b><br>
+      <a href="https://github.com/anverpy/mission-planner">
+        <img src="https://github.com/anverpy/anverpy/blob/main/sky.gif?raw=true" width="500"/>
+      </a>
+    </td>
+    <td align="center">
+      <b>Web Scraping & Data Analysis</b><br>
+      <a href="https://github.com/anverpy/earthquakes">
+        <img src="https://github.com/anverpy/scraping-and-data-analysis/blob/main/machine-learning/visualizations/ML_price_by_level.png?raw=true" width="500"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
 ### - **[TOGGLE TASKBAR VISIBILITY USING WIN+D 👁️‍🗨️](https://github.com/anverpy/toggle-taskbar)** 
 ### - **[DOUBLE LINKED LIST'S EXCERCISE WITH ANALOGY 🤓](https://github.com/anverpy/double-ll-creating-analogy)**  
