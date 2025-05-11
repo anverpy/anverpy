@@ -26,13 +26,13 @@
 
 
 **Earthquake Data Analysis** <br>
-<a href="https://github.com/anverpy/scraping-and-data-analysis"><img src="https://github.com/anverpy/earthquakes/blob/main/Graphics/earthquake_heatmap.png?raw=true" width="350"/></a>
+<a href="https://github.com/anverpy/earthquakes"><img src="https://github.com/anverpy/earthquakes/blob/main/Graphics/earthquake_heatmap.png?raw=true" width="350"/></a>
 
 **Flight Planning & Simulation** <br>
 <a href="https://github.com/anverpy/mission-planner"><img src="https://github.com/anverpy/anverpy/blob/main/sky.gif?raw=true" width="350"/></a>
 
 **Web Scraping & Data Analysis** <br>
-<a href="https://github.com/anverpy/earthquakes"><img src="https://github.com/anverpy/scraping-and-data-analysis/blob/main/machine-learning/visualizations/ML_price_by_level.png?raw=true" width="350"/></a>
+<a href="https://github.com/anverpy/scraping-and-data-analysis"><img src="https://github.com/anverpy/scraping-and-data-analysis/blob/main/machine-learning/visualizations/ML_price_by_level.png?raw=true" width="350"/></a>
 
 
 
