@@ -60,7 +60,7 @@
     <td align="center">
       <b>Flight Planning & Simulation</b><br>
       <a href="https://github.com/anverpy/mission-planner">
-        <img src="https://github.com/anverpy/anverpy/blob/main/sky.gif?raw=true" width="500"/>
+        <img src="https://github.com/anverpy/mission-planner/blob/main/assets/sky.gif?raw=true" width="500"/>
       </a>
     </td>
   </tr>
