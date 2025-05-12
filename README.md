@@ -47,8 +47,10 @@
       </a>
     </td>
     <td align="center">
-      <b>IT Support Web App</b><br>
-      <p>Coming soon...</p>
+     <b>Earthquake Analysis Web App</b><br>
+      <a href="https://github.com/anverpy/earthquakes-app">
+        <img src="https://github.com/anverpy/earthquakes-app/blob/main/banner.png?raw=true" width="500"/>
+      </a>
     </td>
   </tr>
 </table>
