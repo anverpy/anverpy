@@ -1,9 +1,7 @@
 # About Me
 
 ### My name is Andres Vergara, </br> i am a Graduated Technician in Telecommunications and IT Systems (SPAIN PUBLIC F.P).  
-### I’m passionate about technology and IT work.  
-### Over time, I aspire to develop a role as a Data Scientist or Machine Learning Engineering.
-
+### Passionate about technology and IT work enviroments, so i'm continuously learning and developing projects evolving Data Science and Machine Learning. 
 ---
 
 # 🚀 My Skills
