@@ -67,7 +67,7 @@
   <tr>
     <td align="center">
       <b>Web Scraping & Data Analysis</b><br>
-      <a href="https://github.com/anverpy/earthquakes">
+      <a href="https://github.com/anverpy/scraping-and-data-analysis">
         <img src="https://github.com/anverpy/scraping-and-data-analysis/blob/main/machine-learning/visualizations/ML_price_by_level.png?raw=true" width="500"/>
       </a>
     </td>
