@@ -45,7 +45,7 @@
 
 # 🌱 Currently Learning...
 - ## Deep Learning 💭 
-- ## [Hybrid Models VQC 🔎](https://quantum.cloud.ibm.com/docs/en/api/qiskit/0.32/qiskit.aqua.algorithms.VQC
+- ## [Hybrid Models VQC 🔎](https://quantum.cloud.ibm.com/docs/en/api/qiskit/0.32/qiskit.aqua.algorithms.VQC)
 
 
 ---
