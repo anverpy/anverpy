@@ -72,9 +72,9 @@
       </a>
     </td>
     <td align="center">
-     <b>Earthquake Analysis Web App</b><br>
-      <a href="https://github.com/anverpy/earthquakes-app">
-        <img src="https://github.com/anverpy/earthquakes-app/blob/main/banner.png?raw=true" width="500"/>
+     <b>Analisis Airbnb: Turismo Sostenible</b><br>
+      <a href="https://github.com/anverpy/consultora_turismo_airbnb/tree/main">
+        <img src="https://github.com/anverpy/consultora_turismo_airbnb/blob/main/streamlit_app/fondobannerconsultora.jpg?raw=true" width="500"/>
       </a>
     </td>
   </tr>
