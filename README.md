@@ -1,6 +1,9 @@
 # Acerca de mí
 
-### Apasionado por la cultura de datos, residente en España. Soy profesional de TI y telecomunicaciones. Tengo tres años de experiencia trabajando con Python y diversas herramientas para cumplir con las mejores prácticas de ETL.
+### Apasionado por la cultura del dato, residente en España. Soy profesional de TI y telecomunicaciones. Tengo tres años de experiencia trabajando con Python y diversas herramientas para cumplir con las mejores prácticas de ETL.
+
+Recientemente terminé un bootcamp de inteligencia artificial y analisis de datos para afianzar mis conocimientos.
+Sigo aprendiendo cada día actualmente con la preperación para la certificación de Google, Associate Data Practitioner.
 ---
 
 ## 🚀 En mis proyectos utilizo principalmente una o más de las siguientes herramientas:
@@ -44,8 +47,8 @@
 
 # 🌱 Aprendiendo Actualmente...
 
+- ## [Google Associate Data Practitioner ☁](https://cloud.google.com/learn/certification/data-practitioner)
 - ## Deep Learning 💭
-- ## AWS Solutions Architect ☁
 ---
 
 # 🐙💼 Últimos proyectos:  
