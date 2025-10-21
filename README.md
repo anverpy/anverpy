@@ -64,9 +64,9 @@ Sigo aprendiendo cada día actualmente con la preperación para la certificació
       </a>
     </td>
     <td align="center" style="width:50%; vertical-align:top; padding: 10px;">
-      <b style="font-size:1.5em;">Web Scraping & Data Analysis</b><br>
-      <a href="https://github.com/anverpy/scraping-and-data-analysis">
-        <img src="https://github.com/anverpy/scraping-and-data-analysis/blob/main/machine-learning/visualizations/ML_price_by_level.png?raw=true" style="width:100%; height:200px; object-fit:cover;"/>
+      <b style="font-size:1.5em;">Dashboard de Candidatos - Power BI</b><br>
+      <a href="https://github.com/anverpy/powerbi-candidatos">
+        <img src="https://github.com/anverpy/powerbi-candidatos/blob/main/assets/2.png?raw=true" style="width:100%; height:200px; object-fit:cover;"/>
       </a>
     </td>
   </tr>
@@ -86,9 +86,9 @@ Sigo aprendiendo cada día actualmente con la preperación para la certificació
   </tr>
 </table>
 
-### - **[TOGGLE TASKBAR VISIBILITY USING WIN+D 👁️‍🗨️](https://github.com/anverpy/toggle-taskbar)** 
-### - **[DOUBLE LINKED LIST'S EXCERCISE WITH ANALOGY 🤓](https://github.com/anverpy/double-ll-creating-analogy)**  
-### - **[ARTICLES PAGE ✍🏽](https://github.com/anverpy/articles)**
+### - **[Web Scraping & Data Analysis](https://github.com/anverpy/scraping-and-data-analysis)**
+### - **[Alterna Modo Oculto Barra de Tareas de Windows👁️‍🗨️](https://github.com/anverpy/toggle-taskbar)** 
+### - **[Double Linked List: Ejercicio En Python 🤓](https://github.com/anverpy/double-ll-creating-analogy)**  
 
 
 ---
