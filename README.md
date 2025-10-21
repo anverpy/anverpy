@@ -1,9 +1,10 @@
 # Acerca de mí
 
-### Apasionado por la cultura del dato, residente en España. Soy profesional de TI y telecomunicaciones. Tengo tres años de experiencia trabajando con Python y diversas herramientas para cumplir con las mejores prácticas de ETL.
+Apasionado por la cultura del dato, residente en España. Soy profesional de TI y telecomunicaciones. Tengo tres años de experiencia trabajando con Python y diversas herramientas para cumplir con las mejores prácticas de ETL.
 
-Recientemente terminé un bootcamp de inteligencia artificial y analisis de datos para afianzar mis conocimientos.
+Recientemente terminé un bootcamp de inteligencia artificial y analisis de datos para afianzar mis conocimientos. </br></br>
 Sigo aprendiendo cada día actualmente con la preperación para la certificación de Google, Associate Data Practitioner.
+
 ---
 
 ## 🚀 En mis proyectos utilizo principalmente una o más de las siguientes herramientas:
@@ -32,6 +33,7 @@ Sigo aprendiendo cada día actualmente con la preperación para la certificació
 
 
 ### 💪📊 Visualización y Ciencia de datos:
+[![Power BI](https://custom-icon-badges.demolab.com/badge/Power%20BI-F1C912?logo=power-bi&logoColor=fff)](#)
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
