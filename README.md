@@ -55,30 +55,44 @@ Sigo aprendiendo cada día actualmente con la preperación para la certificació
 
 # 🐙💼 Últimos proyectos:  
 
-<b style="font-size:1.5em;">Analisis Airbnb: Turismo Sostenible</b><br>
-<a href="https://github.com/anverpy/consultora_turismo_airbnb/tree/main">
-  <img src="https://github.com/anverpy/consultora_turismo_airbnb/blob/main/streamlit_app/fondobannerconsultora.jpg?raw=true" style="width:100%; height:auto;"/>
-</a>
-
-<br><br>
-
-<b style="font-size:1.5em;">Dashboard de Candidatos - Power BI</b><br>
-<a href="https://github.com/anverpy/powerbi-candidatos">
-  <img src="https://github.com/anverpy/powerbi-candidatos/blob/main/assets/2.png?raw=true" style="width:100%; height:auto;"/>
-</a>
-
-<br><br>
-
-<b style="font-size:1.5em;">Earthquake Data Analysis</b><br>
-<a href="https://github.com/anverpy/earthquakes">
-  <img src="https://github.com/anverpy/earthquakes/blob/main/Graphics/earthquake_heatmap.png?raw=true" style="width:100%; height:auto;"/>
-</a>
-
-<br><br>
-
-<b style="font-size:1.5em;">IoT Monitoring & Analytics Pipeline</b><br>
+### IoT Monitoring & Analytics Pipeline</b><br>
+![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=flat&logo=googlebigquery&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Polars](https://img.shields.io/badge/Polars-CD792C?style=flat&logo=polars&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+<br>
 <a href="https://github.com/anverpy/gcp-analytics">
-  <img src="https://github.com/anverpy/gcp-analytics/blob/main/assets/sc.png?raw=true" style="width:100%; height:auto;"/>
+  <img src="https://github.com/anverpy/gcp-analytics/blob/master/assets/sc.png?raw=true" style="width:80%; height:auto;"/>
+</a> <br><br>
+
+### Analisis Airbnb: Turismo Sostenible</b><br>
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
+<br>
+<a href="https://github.com/anverpy/consultora_turismo_airbnb/tree/main">
+  <img src="https://github.com/anverpy/consultora_turismo_airbnb/blob/main/streamlit_app/fondobannerconsultora.jpg?raw=true" style="width:80%; height:auto;"/>
+</a>
+
+<br><br>
+
+### Dashboard de Candidatos - Power BI</b><br>
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+<br>
+<a href="https://github.com/anverpy/powerbi-candidatos">
+  <img src="https://github.com/anverpy/powerbi-candidatos/blob/main/assets/2.png?raw=true" style="width:80%; height:auto;"/>
+</a>
+
+<br><br>
+
+### Earthquake Data Analysis</b><br>
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat&logo=plotly&logoColor=white)
+<br>
+<a href="https://github.com/anverpy/earthquakes">
+  <img src="https://github.com/anverpy/earthquakes/blob/main/Graphics/earthquake_heatmap.png?raw=true" style="width:80%; height:auto;"/>
 </a>
 
 <br><br>
@@ -92,3 +106,7 @@ Sigo aprendiendo cada día actualmente con la preperación para la certificació
 ---
 
 
+
+Use Control + Shift + m to toggle the tab key moving focus. Alternatively, use esc then tab to move to the next interactive element on the page.
+Ningún archivo seleccionado
+Attach files by dragging & dropping, selecting or pasting them.
