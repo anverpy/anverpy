@@ -99,16 +99,7 @@ Sigo aprendiendo cada día actualmente con la preperación para la certificació
 
 <br><br>
 
-### - **[Web Scraping & Data Analysis](https://github.com/anverpy/scraping-and-data-analysis)**
-### - **[Alterna Modo Oculto Barra de Tareas de Windows👁️‍🗨️](https://github.com/anverpy/toggle-taskbar)** 
-### - **[Double Linked List: Ejercicio En Python 🤓](https://github.com/anverpy/double-ll-creating-analogy)**  
-
+### - **[Todos mis repositorios](https://github.com/anverpy?tab=repositories)**
 
 ---
 ---
-
-
-
-Use Control + Shift + m to toggle the tab key moving focus. Alternatively, use esc then tab to move to the next interactive element on the page.
-Ningún archivo seleccionado
-Attach files by dragging & dropping, selecting or pasting them.
