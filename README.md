@@ -68,6 +68,7 @@ Sigo aprendiendo cada día actualmente con la preperación para la certificació
 
 ### Analisis Airbnb: Turismo Sostenible</b><br>
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
 <br>
 <a href="https://github.com/anverpy/consultora_turismo_airbnb/tree/main">
@@ -79,6 +80,7 @@ Sigo aprendiendo cada día actualmente con la preperación para la certificació
 ### Dashboard de Candidatos - Power BI</b><br>
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-222?style=flat&logo=githubpages&logoColor=white)
 <br>
 <a href="https://github.com/anverpy/powerbi-candidatos">
   <img src="https://github.com/anverpy/powerbi-candidatos/blob/main/assets/2.png?raw=true" style="width:80%; height:auto;"/>
