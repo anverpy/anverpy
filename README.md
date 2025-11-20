@@ -55,36 +55,33 @@ Sigo aprendiendo cada día actualmente con la preperación para la certificació
 
 # 🐙💼 Últimos proyectos:  
 
-<table style="width:100%; table-layout:fixed; border-spacing: 10px;">
-  <tr>
-    <td align="center" style="width:50%; vertical-align:top; padding: 10px;">
-      <b style="font-size:1.5em;">Analisis Airbnb: Turismo Sostenible</b><br>
-      <a href="https://github.com/anverpy/consultora_turismo_airbnb/tree/main">
-        <img src="https://github.com/anverpy/consultora_turismo_airbnb/blob/main/streamlit_app/fondobannerconsultora.jpg?raw=true" style="width:100%; height:200px; object-fit:cover;"/>
-      </a>
-    </td>
-    <td align="center" style="width:50%; vertical-align:top; padding: 10px;">
-      <b style="font-size:1.5em;">Dashboard de Candidatos - Power BI</b><br>
-      <a href="https://github.com/anverpy/powerbi-candidatos">
-        <img src="https://github.com/anverpy/powerbi-candidatos/blob/main/assets/2.png?raw=true" style="width:100%; height:200px; object-fit:cover;"/>
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" style="width:50%; vertical-align:top; padding: 10px;">
-      <b style="font-size:1.5em;">Earthquake Data Analysis</b><br>
-      <a href="https://github.com/anverpy/earthquakes">
-        <img src="https://github.com/anverpy/earthquakes/blob/main/Graphics/earthquake_heatmap.png?raw=true" style="width:100%; height:200px; object-fit:cover;"/>
-      </a>
-    </td>
-    <td align="center" style="width:50%; vertical-align:top; padding: 10px;">
-      <b style="font-size:1.5em;">Flight Planning & Simulation</b><br>
-      <a href="https://github.com/anverpy/mission-planner">
-        <img src="https://github.com/anverpy/mission-planner/blob/main/assets/sky.gif?raw=true" style="width:100%; height:200px; object-fit:cover;"/>
-      </a>
-    </td>
-  </tr>
-</table>
+<b style="font-size:1.5em;">Analisis Airbnb: Turismo Sostenible</b><br>
+<a href="https://github.com/anverpy/consultora_turismo_airbnb/tree/main">
+  <img src="https://github.com/anverpy/consultora_turismo_airbnb/blob/main/streamlit_app/fondobannerconsultora.jpg?raw=true" style="width:100%; height:auto;"/>
+</a>
+
+<br><br>
+
+<b style="font-size:1.5em;">Dashboard de Candidatos - Power BI</b><br>
+<a href="https://github.com/anverpy/powerbi-candidatos">
+  <img src="https://github.com/anverpy/powerbi-candidatos/blob/main/assets/2.png?raw=true" style="width:100%; height:auto;"/>
+</a>
+
+<br><br>
+
+<b style="font-size:1.5em;">Earthquake Data Analysis</b><br>
+<a href="https://github.com/anverpy/earthquakes">
+  <img src="https://github.com/anverpy/earthquakes/blob/main/Graphics/earthquake_heatmap.png?raw=true" style="width:100%; height:auto;"/>
+</a>
+
+<br><br>
+
+<b style="font-size:1.5em;">IoT Monitoring & Analytics Pipeline</b><br>
+<a href="https://github.com/anverpy/gcp-analytics">
+  <img src="https://github.com/anverpy/gcp-analytics/blob/main/assets/sc.png?raw=true" style="width:100%; height:auto;"/>
+</a>
+
+<br><br>
 
 ### - **[Web Scraping & Data Analysis](https://github.com/anverpy/scraping-and-data-analysis)**
 ### - **[Alterna Modo Oculto Barra de Tareas de Windows👁️‍🗨️](https://github.com/anverpy/toggle-taskbar)** 
