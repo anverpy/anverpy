@@ -2,8 +2,8 @@
 
 Apasionado por la cultura del dato, residente en España. Soy profesional de TI y telecomunicaciones. Tengo tres años de experiencia trabajando con Python y diversas herramientas para cumplir con las mejores prácticas de ETL.
 
-Recientemente terminé un bootcamp de inteligencia artificial y analisis de datos para afianzar mis conocimientos. </br></br>
-Sigo aprendiendo cada día actualmente con la preperación para la certificación de Google, Associate Data Practitioner.
+Recientemente terminé un [bootcamp de inteligencia artificial y analisis de datos](https://www.credential.net/009963cc-ab9a-485b-8e79-94ed4ebde8b8) para afianzar mis conocimientos. </br></br>
+Sigo aprendiendo cada día actualmente con certificaciones de Data tanto en Google como en AWS.
 
 ---
 
@@ -47,10 +47,6 @@ Sigo aprendiendo cada día actualmente con la preperación para la certificació
 [![Keras](https://img.shields.io/badge/Keras-D00000?logo=keras&logoColor=fff)](#)
 [![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000?logo=githubcopilot&logoColor=fff)](#)
 
-# 🌱 Aprendiendo Actualmente...
-
-- ## [Google Associate Data Practitioner ☁](https://cloud.google.com/learn/certification/data-practitioner)
-- ## Deep Learning 💭
 ---
 
 # 🐙💼 Últimos proyectos:  
