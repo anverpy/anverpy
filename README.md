@@ -59,7 +59,7 @@ Sigo aprendiendo cada día actualmente con certificaciones de Data tanto en Goog
 
 <br>
 <a href="https://github.com/anverpy/lakehouse-local">
-  <img src="https://github.com/anverpy/lakehouse-local/assets/preview.png?raw=true" style="width:80%; height:auto;"/>
+  <img src="https://raw.githubusercontent.com/anverpy/lakehouse-local/main/assets/preview.png" width="80%" />
 </a>
 
 <br><br>
@@ -72,7 +72,7 @@ Sigo aprendiendo cada día actualmente con certificaciones de Data tanto en Goog
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
 <br>
 <a href="https://github.com/anverpy/gcp-analytics">
-  <img src="https://github.com/anverpy/gcp-analytics/blob/master/assets/sc.png?raw=true" style="width:80%; height:auto;"/>
+  <img src="https://github.com/anverpy/gcp-analytics/blob/master/assets/preview.png?raw=true" style="width:80%; height:auto;"/>
 </a> <br><br>
 
 ### Analisis Airbnb: Turismo Sostenible</b><br>
