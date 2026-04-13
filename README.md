@@ -49,7 +49,20 @@ Sigo aprendiendo cada día actualmente con certificaciones de Data tanto en Goog
 
 ---
 
-# 🐙💼 Últimos proyectos:  
+# 🐙💼 Mis últimos proyectos:  
+
+### Pipeline Medallion - Ecommerce Customer Data </b><br>
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+[![AWS](https://custom-icon-badges.demolab.com/badge/AWS-%23FF9900.svg?logo=aws&logoColor=white)](#)
+![Jupyter](https://img.shields.io/badge/Jupyter-ffffff?logo=Jupyter)
+[![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=fff)](#)
+
+<br>
+<a href="https://github.com/anverpy/lakehouse-local">
+  <img src="https://github.com/anverpy/lakehouse-local/assets/preview.png?raw=true" style="width:80%; height:auto;"/>
+</a>
+
+<br><br>
 
 ### IoT Monitoring & Analytics Pipeline</b><br>
 ![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=flat&logo=googlebigquery&logoColor=white)
@@ -69,17 +82,6 @@ Sigo aprendiendo cada día actualmente con certificaciones de Data tanto en Goog
 <br>
 <a href="https://github.com/anverpy/consultora_turismo_airbnb/tree/main">
   <img src="https://github.com/anverpy/consultora_turismo_airbnb/blob/main/streamlit_app/fondobannerconsultora.jpg?raw=true" style="width:80%; height:auto;"/>
-</a>
-
-<br><br>
-
-### Dashboard de Candidatos - Power BI</b><br>
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
-![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-222?style=flat&logo=githubpages&logoColor=white)
-<br>
-<a href="https://github.com/anverpy/powerbi-candidatos">
-  <img src="https://github.com/anverpy/powerbi-candidatos/blob/main/assets/2.png?raw=true" style="width:80%; height:auto;"/>
 </a>
 
 <br><br>
