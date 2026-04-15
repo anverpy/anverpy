@@ -49,53 +49,69 @@ Sigo aprendiendo cada día actualmente con certificaciones de Data tanto en Goog
 
 ---
 
-# 🐙💼 Mis últimos proyectos:  
+# 🐙💼 Mis últimos proyectos:
 
-### Pipeline Medallion - Ecommerce Customer Data </b><br>
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-[![AWS](https://custom-icon-badges.demolab.com/badge/AWS-%23FF9900.svg?logo=aws&logoColor=white)](#)
-![Jupyter](https://img.shields.io/badge/Jupyter-ffffff?logo=Jupyter)
-[![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=fff)](#)
-
-<br>
-<a href="https://github.com/anverpy/lakehouse-local">
-  <img src="https://raw.githubusercontent.com/anverpy/lakehouse-local/main/assets/preview.png" width="80%" />
-</a>
-
-<br><br>
-
-### IoT Monitoring & Analytics Pipeline</b><br>
-![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=flat&logo=googlebigquery&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Polars](https://img.shields.io/badge/Polars-CD792C?style=flat&logo=polars&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
-<br>
-<a href="https://github.com/anverpy/gcp-analytics">
-  <img src="https://github.com/anverpy/gcp-analytics/blob/master/assets/preview.png?raw=true" style="width:80%; height:auto;"/>
-</a> <br><br>
-
-### Analisis Airbnb: Turismo Sostenible</b><br>
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
-<br>
-<a href="https://github.com/anverpy/consultora_turismo_airbnb/tree/main">
-  <img src="https://github.com/anverpy/consultora_turismo_airbnb/blob/main/streamlit_app/fondobannerconsultora.jpg?raw=true" style="width:80%; height:auto;"/>
-</a>
-
-<br><br>
-
-### Earthquake Data Analysis</b><br>
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat&logo=plotly&logoColor=white)
-<br>
-<a href="https://github.com/anverpy/earthquakes">
-  <img src="https://github.com/anverpy/earthquakes/blob/main/Graphics/earthquake_heatmap.png?raw=true" style="width:80%; height:auto;"/>
-</a>
-
-<br><br>
+<table>
+  <tr>
+    <!-- Proyecto 1 -->
+    <td align="center" width="33%">
+      <b>Pipeline Medallion - Ecommerce Customer Data</b><br><br>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+      <a href="#"><img src="https://custom-icon-badges.demolab.com/badge/AWS-%23FF9900.svg?logo=aws&logoColor=white"/></a>
+      <img src="https://img.shields.io/badge/Jupyter-ffffff?logo=Jupyter"/>
+      <a href="#"><img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=fff"/></a>
+      <br><br>
+      <a href="https://github.com/anverpy/lakehouse-local">
+        <img src="https://raw.githubusercontent.com/anverpy/lakehouse-local/main/assets/preview.png" width="100%"/>
+      </a>
+    </td>
+    <!-- Proyecto 2 -->
+    <td align="center" width="33%">
+      <b>IoT Monitoring & Analytics Pipeline</b><br><br>
+      <img src="https://img.shields.io/badge/BigQuery-4285F4?style=flat&logo=googlebigquery&logoColor=white"/>
+      <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Polars-CD792C?style=flat&logo=polars&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black"/>
+      <br><br>
+      <a href="https://github.com/anverpy/gcp-analytics">
+        <img src="https://github.com/anverpy/gcp-analytics/blob/master/assets/preview.png?raw=true" width="100%"/>
+      </a>
+    </td>
+    <!-- Proyecto 3 -->
+    <td align="center" width="33%">
+      <b>Analisis Airbnb: Turismo Sostenible</b><br><br>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white"/>
+      <br><br>
+      <a href="https://github.com/anverpy/consultora_turismo_airbnb/tree/main">
+        <img src="https://github.com/anverpy/consultora_turismo_airbnb/blob/main/streamlit_app/fondobannerconsultora.jpg?raw=true" width="100%"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <!-- Proyecto 4 -->
+    <td align="center" width="33%">
+      <b>Earthquake Data Analysis</b><br><br>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat&logo=plotly&logoColor=white"/>
+      <br><br>
+      <a href="https://github.com/anverpy/earthquakes">
+        <img src="https://github.com/anverpy/earthquakes/blob/main/Graphics/earthquake_heatmap.png?raw=true" width="100%"/>
+      </a>
+    </td>
+    <!-- Proyecto 5 - vacío o puedes añadir uno nuevo -->
+    <td align="center" width="33%">
+      <!-- Próximamente -->
+    </td>
+    <!-- Proyecto 6 - vacío o puedes añadir uno nuevo -->
+    <td align="center" width="33%">
+      <!-- Próximamente -->
+    </td>
+  </tr>
+</table>
 
 ### - **[Todos mis repositorios](https://github.com/anverpy?tab=repositories)**
 
