@@ -60,7 +60,7 @@ Sigo aprendiendo cada día actualmente con certificaciones de Data tanto en Goog
     <!-- Proyecto 1 -->
     <td align="center" width="50%">
       <b>Arquitectura Serverless: SSR y CSR con AWS Lambda y API Gateway</b><br><br>
-      <a href="https://github.com/anverpy/lakehouse-local">
+      <a href="https://github.com/anverpy/serverless-ssr-csr-aws">
       <img src="https://raw.githubusercontent.com/anverpy/serverless-ssr-csr-aws/main/assets/banner_proyecto.png" width="100%"/>
       </a>
     </td>
