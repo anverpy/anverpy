@@ -1,4 +1,4 @@
-### [Mas en mi LinkedIn](https://www.linkedin.com/in/andresvergarav)
+[Mas en mi LinkedIn](https://www.linkedin.com/in/andresvergarav)
 # Acerca de mí
 
 Apasionado por la cultura del dato, residente en España. Soy profesional de TI y telecomunicaciones. Tengo tres años de experiencia trabajando con Python y diversas herramientas para cumplir con las mejores prácticas de ETL.
