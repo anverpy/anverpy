@@ -1,17 +1,16 @@
 [Mas en mi LinkedIn](https://www.linkedin.com/in/andresvergarav)
 # Acerca de mí
 
-Apasionado por la cultura del dato, residente en España. Soy profesional de TI y telecomunicaciones. Tengo tres años de experiencia trabajando con Python y diversas herramientas para cumplir con las mejores prácticas de ETL.
+Apasionado por la cultura del dato, residente en España. Soy profesional de TI y telecomunicaciones. Tengo +3 años de experiencia trabajando con Python y diversas herramientas, siguiendo las mejores prácticas para el ELT/ETL.
 
-Recientemente terminé un [bootcamp de inteligencia artificial y analisis de datos](https://www.credential.net/009963cc-ab9a-485b-8e79-94ed4ebde8b8) para afianzar mis conocimientos. </br></br>
-Sigo aprendiendo cada día actualmente con certificaciones de Data tanto en Google como en AWS.
-
+Recientemente terminé un [bootcamp de inteligencia artificial y analisis de datos](https://www.credential.net/009963cc-ab9a-485b-8e79-94ed4ebde8b8) para afianzar mis conocimientos. </br> Actualmente estoy tras la certificación de [AWS Data Engineer Associate](https://aws.amazon.com/certification/certified-data-engineer-associate/?trk=ad917d6e-aa85-4ac5-8f61-09fb1300bc9b&sc_channel=ps)
+<img src="https://img-c.udemycdn.com/open-badges/v2/badge-class/1309014830/97c586f8-400c-427e-951d-7352f731b0de1572374724681906937.png" alt="hola" width="90"></br></br>
 ---
 </br>
 
 ## 🚀 En mis proyectos utilizo principalmente una o más de las siguientes herramientas:
 
-### 🛠️ Sistemas Operativos y herramientas:
+### 🛠️ SO, Terminal e IDEs:
 [![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white)](#)
 [![PowerShell](https://custom-icon-badges.demolab.com/badge/PowerShell-5391FE?logo=powershell-white&logoColor=fff)](#)
 [![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)](#)
@@ -19,23 +18,25 @@ Sigo aprendiendo cada día actualmente con certificaciones de Data tanto en Goog
 [![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff)](#)
 
 ### 🌐 Computación en la nube
+[![AWS](https://custom-icon-badges.demolab.com/badge/AWS-%23FF9900.svg?logo=aws&logoColor=white)](#)
 [![Microsoft Azure](https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure-0089D6?logo=msazure&logoColor=white)](#)
 [![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?logo=google-cloud&logoColor=white)](#)
-[![AWS](https://custom-icon-badges.demolab.com/badge/AWS-%23FF9900.svg?logo=aws&logoColor=white)](#)
 
 ### 💻 Para programación y desarrollo:
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 [![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff)](#)
 [![Streamlit](https://img.shields.io/badge/Streamlit-%23FF4B4B.svg?logo=streamlit&logoColor=white)](#)
 [![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)](#)
 
 ### ⌗ Bases de datos:
+[![AWS](https://custom-icon-badges.demolab.com/badge/AWS-%23FF9900.svg?logo=aws&logoColor=white)](#) Redshift/Athena </br>
 [![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?logo=snowflake&logoColor=fff)](#)
 [![Microsoft SQL Server](https://custom-icon-badges.demolab.com/badge/Microsoft%20SQL%20Server-CC2927?logo=mssqlserver-white&logoColor=white)](#)
 
 
 ### 💪📊 Visualización y Ciencia de datos:
-[![Power BI](https://custom-icon-badges.demolab.com/badge/Power%20BI-F1C912?logo=power-bi&logoColor=fff)](#)
+![AWS QuickSight](https://img.shields.io/badge/AWS_QuickSight-232F3E?style=flat-square&logo=amazonwebservices&logoColor=FF9900)
 [![Jupyter Notebook](https://img.shields.io/badge/Jupyter-FA0F00?logo=jupyter&logoColor=fff)](#)
 [![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)](#)
 [![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=fff)](#)
@@ -43,8 +44,10 @@ Sigo aprendiendo cada día actualmente con certificaciones de Data tanto en Goog
 [![Matplotlib](https://custom-icon-badges.demolab.com/badge/Matplotlib-71D291?logo=matplotlib&logoColor=fff)](#)
 [![Plotly](https://img.shields.io/badge/Plotly-3F4F75?logo=plotly&logoColor=fff)](#)
 [![Scikit-learn](https://img.shields.io/badge/-scikit--learn-%23F7931E?logo=scikit-learn&logoColor=white)](#)
+[![Power BI](https://custom-icon-badges.demolab.com/badge/Power%20BI-F1C912?logo=power-bi&logoColor=fff)](#)
 
 ### 🤖 Aprendizaje Automático e Inteligencia Artificial
+![Claude AI](https://img.shields.io/badge/Claude_AI-191919?style=flat-square&logo=anthropic&logoColor=D97757)
 [![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?logo=openai&logoColor=white)](#)
 [![Keras](https://img.shields.io/badge/Keras-D00000?logo=keras&logoColor=fff)](#)
 [![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000?logo=githubcopilot&logoColor=fff)](#)
