@@ -3,7 +3,9 @@
 
 Apasionado por la cultura del dato, residente en España. Soy profesional de TI y telecomunicaciones. Tengo +3 años de experiencia trabajando con Python y diversas herramientas, siguiendo las mejores prácticas para el ELT/ETL.
 
-Recientemente terminé un [bootcamp de inteligencia artificial y analisis de datos](https://www.credential.net/009963cc-ab9a-485b-8e79-94ed4ebde8b8) para afianzar mis conocimientos. </br> Actualmente estoy tras la certificación de [AWS Data Engineer Associate](https://aws.amazon.com/certification/certified-data-engineer-associate/?trk=ad917d6e-aa85-4ac5-8f61-09fb1300bc9b&sc_channel=ps)
+Cursé un [bootcamp de inteligencia artificial y analisis de datos](https://www.credential.net/009963cc-ab9a-485b-8e79-94ed4ebde8b8) para afianzar mis conocimientos.
+
+</br> Me certifiqué recientemente en [AWS Data Engineer Associate](https://aws.amazon.com/certification/certified-data-engineer-associate/?trk=ad917d6e-aa85-4ac5-8f61-09fb1300bc9b&sc_channel=ps)
 <img src="https://img-c.udemycdn.com/open-badges/v2/badge-class/1309014830/97c586f8-400c-427e-951d-7352f731b0de1572374724681906937.png" alt="hola" width="90"></br></br>
 ---
 </br>
